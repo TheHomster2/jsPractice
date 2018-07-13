@@ -192,6 +192,8 @@ function fizzbuzz(number){
 	}
 }
 
+console.log(fizzbuzz(100));
+
 function fibonacci(){
 	var total = 0;
 	var prev = 0;
